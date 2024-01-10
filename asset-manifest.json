@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/vovkatom/goit-react-hw-03-image-finder/static/css/main.65125111.css",
+    "main.js": "/vovkatom/goit-react-hw-03-image-finder/static/js/main.2b58d8e2.js",
+    "index.html": "/vovkatom/goit-react-hw-03-image-finder/index.html",
+    "static/media/search.svg": "/vovkatom/goit-react-hw-03-image-finder/static/media/search.83bf22fea51e5d789840c7ebeff532fe.svg",
+    "main.65125111.css.map": "/vovkatom/goit-react-hw-03-image-finder/static/css/main.65125111.css.map",
+    "main.2b58d8e2.js.map": "/vovkatom/goit-react-hw-03-image-finder/static/js/main.2b58d8e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65125111.css",
+    "static/js/main.2b58d8e2.js"
+  ]
+}
