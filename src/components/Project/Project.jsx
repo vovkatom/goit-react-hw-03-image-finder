@@ -9,7 +9,7 @@ import { AppDiv } from './Project.syled';
 import { ToastContainer, toast, Flip } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-class edrtdrte extends Component {
+class Project extends Component {
   state = {
     images: [],
     isLoading: false,
@@ -91,7 +91,6 @@ componentDidUpdate(_prevProps, prevState) {
       <AppDiv>
         <ToastContainer transition={Flip}/>
         <Searchbar onSubmit={this.handleSearchSubmit} />
-        <Searchbar onSubmit={this.handleSearchSubmit} />
 
         {error && <p>Error: {error}</p>}
 
@@ -112,4 +111,4 @@ componentDidUpdate(_prevProps, prevState) {
   }
 }
 
-export default edrtdrte;
+export default Project;
